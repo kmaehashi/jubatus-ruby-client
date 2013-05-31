@@ -1,0 +1,4 @@
+require 'ci/reporter/rake/test_unit'
+require 'simplecov'
+
+load 'Rakefile'
